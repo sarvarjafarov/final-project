@@ -12,4 +12,7 @@ A calculator that calculates simple interest given principal, annual rate of int
 
 ## Output
    ```python
-   simple interest = p*t*r    
+   simple interest = p*t*r
+
+## License
+2022 XYZ, Inc.
